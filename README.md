@@ -10,3 +10,5 @@ They specialize in automating the extraction of data from various types of docum
 # Tools
 1. Visual Studio:- Link to download https://visualstudio.microsoft.com/downloads/
 2. Insomnia:- Link to download https://insomnia.rest/
+# Urls
+Run the Url in insomnia http://127.0.0.1:8000/veryfi/list/
