@@ -6,4 +6,7 @@ They specialize in automating the extraction of data from various types of docum
 1. Download the project as .zip file
 2. Extract the file
 3. Install all requirements in requirements.txt
-4. Then run the Project 
+4. Then run the Project
+# Tools
+Visual Studio:- Link to download https://visualstudio.microsoft.com/downloads/
+Insomnia:- Link to download https://insomnia.rest/
